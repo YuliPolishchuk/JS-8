@@ -9,4 +9,4 @@ let url = createURL(
  { country: 'Ukraine', region: 'Kiev'}
 );
 
-console.log(url)
+console.log(url);
