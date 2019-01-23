@@ -1,4 +1,3 @@
-
 function createURL(str, obj) {
   return Object.keys(obj).reduce(function (result, key) {
     return result.replace('{'+key+'}', obj[key]);
